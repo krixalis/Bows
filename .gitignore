@@ -215,7 +215,5 @@ pip-log.txt
 .mr.developer.cfg
 
 #Own stuff
-Library/*
-Libary/metadata/
-Library/ScriptAssemblies/
+Library/
 Temp/UnityLockfile
