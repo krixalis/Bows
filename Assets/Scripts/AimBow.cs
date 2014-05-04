@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class AimVisual : MonoBehaviour {
+public class AimBow : MonoBehaviour {
 
 	Ray cameraRay;
 	Plane cameraPlane;

@@ -46,7 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\AimVisual.cs" />
+     <Compile Include="Assets\Scripts\AimBow.cs" />
+     <Compile Include="Assets\Scripts\CenterMouse.cs" />
+     <Compile Include="Assets\Scripts\ShootArrow.cs" />
+     <Compile Include="Assets\StickArrow.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
